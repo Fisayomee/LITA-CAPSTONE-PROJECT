@@ -26,7 +26,12 @@ The dataset includes the following field:
 - Total Quantity: 68.5K
 
 ### Exploratory Data Analysis
-EDA involved the exploratory of the Data to answer some questions about the data such as;
+EDA involved the exploratory of the Data to answer some questions about the data
+
+#### Excel
+- Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
+- Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+- Create any other interesting report
 
 Retrieve the total sales for each product category.
 Find the number of sales transactions in each region.
