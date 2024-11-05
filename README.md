@@ -18,3 +18,21 @@ The dataset includes the following field:
 - Microsoft excel - For Data Cleaning, Analysis and Visualisation
 - Structured Query Language - For querying data
 - Power BI - For Data Visualisation and Report
+
+### Basic Statistics about Dataset
+- Total Sales: 2.1 Million
+- Average Sales: 211.8
+- Total Customer: 9921
+- Total Quantity: 68.5K
+
+### Exploratory Data Analysis
+EDA involved the exploratory of the Data to answer some questions about the data such as;
+
+Retrieve the total sales for each product category.
+Find the number of sales transactions in each region.
+Find the highest-selling product by total sales value.
+Calculate total revenue per product.
+Calculate monthly sales totals for the current year.
+Find the top 5 customers by total purchase amount.
+Calculate the percentage of total sales contributed by each region.
+Identify products with no sales in the last quarter. 
