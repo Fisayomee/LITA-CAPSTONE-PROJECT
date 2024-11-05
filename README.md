@@ -1,4 +1,4 @@
-# LITA-CAPSTONE-PROJECT
+# LITA-CAPSTONE-PROJECT SALES DATA
 This is where I documented my first project while learning Data Analysis with the Incubator Hub
 
 ## PROJECT TITLE: SALES DATA
