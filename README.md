@@ -14,7 +14,7 @@ The dataset includes the following field:
 - UnitPrice: The price per unit of the product.
 - Total Sales: The total sales value for the order, calculated as Quantity * UnitPrice
 
-###Tools used
+### Tools used
 - Microsoft excel - For Data Cleaning, Analysis and Visualisation
 - Structured Query Language - For querying data
 - Power BI - For Data Visualisation and Report
